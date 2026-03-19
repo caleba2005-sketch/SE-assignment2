@@ -1,7 +1,4 @@
 git add .
 git commit -m "Initial commit with Hello, World! program"
 git push origin main
-git checkout -b feature-1
-git add .
-git commit -m "Hi! Caleb Allen"
-git push origin feature-1
+
